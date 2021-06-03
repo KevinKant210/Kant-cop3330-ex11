@@ -3,7 +3,8 @@ package E_11;
 import  java.util.Scanner;
 import java.text.DecimalFormat;
 /**
- * Hello world!
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  *  Copyright 2021 Kevin Kant
  *
  */
 public class App 
